@@ -97,7 +97,7 @@
     <junit.version>4.13.2</junit.version>
     <metrics.client.version>0.13.0</metrics.client.version>
     <mockito.version>5.18.0</mockito.version>
-    <protobuf.version>3.25.5</protobuf.version>
+    <protobuf.version>4.31.1</protobuf.version>
     <slf4j.version>2.0.17</slf4j.version>
     <wiremock.version>2.27.2</wiremock.version>
 
