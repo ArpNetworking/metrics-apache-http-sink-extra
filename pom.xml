@@ -99,7 +99,7 @@
     <mockito.version>5.22.0</mockito.version>
     <protobuf.version>4.34.1</protobuf.version>
     <slf4j.version>2.0.18</slf4j.version>
-    <wiremock.version>2.27.2</wiremock.version>
+    <wiremock.version>3.0.1</wiremock.version>
 
     <!-- Plugin versions -->
     <maven.shade.plugin.version>3.6.2</maven.shade.plugin.version>
